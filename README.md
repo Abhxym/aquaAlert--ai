@@ -2,15 +2,7 @@
 
 > An end-to-end AI-powered flood detection and early warning system combining XGBoost, LSTM, CNN U-Net, SHAP Explainability, and GradCAM visualization — served via FastAPI with a React dashboard.
 
----
 
-## 🖥️ Dashboard Preview
-
-| Light Mode | Dark Mode |
-|---|---|
-| Real-time flood risk gauge with SHAP XAI | Toggle via ☀️/🌙 button in topbar |
-
----
 
 ## 🚀 Features
 

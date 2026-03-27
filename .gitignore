@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+Lib/
+Scripts/
+share/
+etc/
+
+# Models (large binary files)
+models/saved/*.h5
+models/saved/*.pkl
+
+# Data (large datasets)
+data/raw/
+data/external/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+notebooks/models/
+
+# Outputs (generated)
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+*.env
